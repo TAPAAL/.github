@@ -17,22 +17,22 @@ The TAPAAL tools consists of the following projects:
   <table>
     <tr>
       <td><a href=https://github.com/tapaal/tapaal-gui>TAPAAL GUI</td>
-      <td>java</td>
+      <td>java / kotlin</td>
       <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/tapaal-gui/build.yml"></td>
     </tr>
     <tr>
       <td><a href=https://github.com/tapaal/verifypn>verifypn</td>
-      <td>java</td>
+      <td>C++</td>
       <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/verifypn/build-linux.yml"></td>
     </tr>
     <tr>
       <td><a href=https://github.com/tapaal/verifydtapn>verifydtapn</td>
-      <td>java</td>
+      <td>C++</td>
       <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/verifydtapn/build-linux.yml"></td>
     </tr>
     <tr>
       <td><a href=https://github.com/tapaal/verifytapn>verifytapn</td>
-      <td>java</td>
+      <td>C++</td>
       <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/verifytapn/build-linux.yml"></td>
     </tr>
   </table>
