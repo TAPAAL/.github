@@ -1,6 +1,8 @@
 
-<img align=left src=https://www.tapaal.net/images/tapaal.png>
-<h1>TAPAAL - Modeling, simulation, and verification of Petri Nets</h1>
+ <img align=left valign=center src=https://www.tapaal.net/images/tapaal.png>
+ <h1 valign=center>TAPAAL</h1>
+
+A modern tool for modeling, simulation and verification of Petri Nets. Includes support for Games, Colors and Time-Arc.
 
 [Features](https://www.tapaal.net/features/) | [Screenshots](https://www.tapaal.net/screenshots/) | [Download](https://www.tapaal.net/download/) | [Documentation](https://docs.tapaal.net)
 
