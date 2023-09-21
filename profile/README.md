@@ -1,1 +1,37 @@
-# TAPAAL
+
+<img align=left src=https://www.tapaal.net/images/tapaal.png>
+<h1>TAPAAL - Modeling, simulation, and verification of Petri Nets</h1>
+
+[Features](https://www.tapaal.net/features/) | [Screenshots](https://www.tapaal.net/screenshots/) | [Download](https://www.tapaal.net/download/) | [Documentation](https://docs.tapaal.net)
+
+  * [Ask a question](https://github.com/orgs/TAPAAL/discussions)
+  * [Submit a bug](https://github.com/TAPAAL/TAPAAL/issues/new)
+  * [Create a feature request](https://github.com/TAPAAL/TAPAAL/issues/new)
+
+---
+
+The TAPAAL tools consists of the following parts: 
+<div align=center>
+  <table>
+    <tr>
+      <td><a href=https://github.com/tapaal/tapaal-gui>TAPAAL GUI</td>
+      <td>java</td>
+      <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/tapaal-gui/build.yml"></td>
+    </tr>
+    <tr>
+      <td><a href=https://github.com/tapaal/verifypn>verifypn</td>
+      <td>java</td>
+      <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/verifypn/build-linux.yml"></td>
+    </tr>
+    <tr>
+      <td><a href=https://github.com/tapaal/verifydtapn>verifydtapn</td>
+      <td>java</td>
+      <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/verifydtapn/build-linux.yml"></td>
+    </tr>
+    <tr>
+      <td><a href=https://github.com/tapaal/verifytapn>verifytapn</td>
+      <td>java</td>
+      <td><img valign="center" align="center" alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/tapaal/verifytapn/build-linux.yml"></td>
+    </tr>
+  </table>
+</div>
