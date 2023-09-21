@@ -12,7 +12,7 @@ A modern tool for modeling, simulation and verification of Petri Nets. Includes 
 
 ---
 
-The TAPAAL tools consists of the following parts: 
+The TAPAAL tools consists of the following projects: 
 <div align=center>
   <table>
     <tr>
