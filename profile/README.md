@@ -1,5 +1,5 @@
 
- <img align=left valign=center src=https://www.tapaal.net/images/tapaal.png>
+ <img align=left valign=center src=https://avatars.githubusercontent.com/u/44235005?s=200&v=4>
  <h1 valign=center>TAPAAL</h1>
 
 A modern tool for modeling, simulation and verification of Petri Nets. Includes support for Games, Colors and Time-Arc.
